@@ -13,17 +13,26 @@
     "@emotion/styled": "^11.11.0",
     "@fontsource/roboto": "^5.0.3",
     "@mui/material": "^5.13.6",
+    "@prisma/client": "4.16.1",
     "@types/node": "20.3.2",
     "@types/react": "18.2.14",
     "@types/react-dom": "18.2.6",
     "autoprefixer": "10.4.14",
     "eslint": "8.43.0",
     "eslint-config-next": "13.4.7",
+    "mythic-language-server": "^0.2.0",
     "next": "13.4.7",
     "postcss": "8.4.24",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-syntax-highlighter": "^15.5.0",
     "tailwindcss": "3.3.2",
-    "typescript": "5.1.5"
+    "typescript": "5.1.5",
+    "vscode-languageserver": "^8.1.0",
+    "vscode-languageserver-textdocument": "^1.0.8"
+  },
+  "devDependencies": {
+    "@types/react-syntax-highlighter": "^15.5.7",
+    "prisma": "^4.16.1"
   }
 }
